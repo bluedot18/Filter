@@ -1,0 +1,18 @@
+{
+    "name": "bluedot18/filter",
+    "description": "Database data results filter",
+    "keywords": ["library", "bluedoy", "filter", "http'],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lebohang Mokoena",
+            "email": "lebohang0824@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Bluedot18\\Filter\\": "src/"
+        }
+    },
+}
